@@ -76,3 +76,4 @@
 
 - [Slides](https://github.com/betsyg6/BootcampPrep/blob/main/12.NextSteps/BCP%20-%2012.%20Next%20Steps%20(1).pdf)
 - [Lecture Recording](https://youtu.be/iu5Q6oC8Kr4)
+- [Additional Skills Practice - Codewars](/www.codewars.com)
