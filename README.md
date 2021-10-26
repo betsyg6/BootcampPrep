@@ -23,10 +23,12 @@
 
 - [Slides](https://github.com/betsyg6/BootcampPrep/blob/main/02.Loops-Debugging/02.%20Loops%20and%20Debugging.pdf)
 - [Code Samples](https://github.com/betsyg6/BootcampPrep/blob/main/02.Loops-Debugging/loops.js)
+- [Lecture Recording](https://youtu.be/OQz6TQv85Ho)
 
 ### 03. Coercion & Truthiness
 
 - [Slides](https://github.com/betsyg6/BootcampPrep/blob/main/03.Coercion-Truthiness/03.%20Coercion%20and%20Truthiness.pdf)
+- [Lecture Recording](https://youtu.be/5FgAXXxDomk)
 
 ### 04. Caesar Cypher
 
@@ -36,25 +38,30 @@
 
 - [Slides](https://github.com/betsyg6/BootcampPrep/blob/main/05.Scope/05.%20Scope.pdf)
 - [Code Samples](https://github.com/betsyg6/BootcampPrep/blob/main/05.Scope/scope.js)
+- [Lecture Recording](https://youtu.be/PlnF8WhBf0M)
 
 ### 06. Arrays I
 
 - [Slides](https://github.com/betsyg6/BootcampPrep/blob/main/06.ArraysI/06.%20Arrays%20I.pdf)
+- [Lecture Recording](https://youtu.be/z_7reBZvPUk)
 
 ### 07. Arrays II
 
 - [Slides](https://github.com/betsyg6/BootcampPrep/blob/main/07.ArraysII/07.%20Arrays%20II%20(WK).pdf)
 - [Code Samples](https://github.com/betsyg6/BootcampPrep/blob/main/07.ArraysII/arrays-II.js)
+- [Lecture Recording](https://youtu.be/cJXAMsxtJTY)
 
 ### 08. Sudoku Validator
 
 - [Slides](https://github.com/betsyg6/BootcampPrep/blob/main/08.SudokuValidator/08.%20BCP-Sudoku.pdf)
+- [CodePen](https://codepen.io/habst/pen/RwozgPX?editors=0010)
 - [Solution Code](https://github.com/betsyg6/BootcampPrep/blob/main/08.SudokuValidator/sudokuSolution.js)
 
 ### 09. Objects
 
 - [Slides](https://github.com/betsyg6/BootcampPrep/blob/main/09.Objects/09.%20Objects.pdf)
 - [Code Samples](https://github.com/betsyg6/BootcampPrep/blob/main/09.Objects/objects.js)
+- [Lecture Recording](https://youtu.be/O-_XLqOrLa0)
 
 ### 10. Recursion I
 
@@ -68,3 +75,4 @@
 ### 12. Next Steps
 
 - [Slides](https://github.com/betsyg6/BootcampPrep/blob/main/12.NextSteps/BCP%20-%2012.%20Next%20Steps%20(1).pdf)
+- [Lecture Recording](https://youtu.be/iu5Q6oC8Kr4)
